@@ -1,0 +1,25 @@
+[
+    {
+        "id": "hfw-platinum-trophy",
+        "trophy_name": "All Trophies Obtained",
+        "trophy_description": "Obtained all Horizon Forbidden West trophies.",
+        "trophy_image": "",
+        "trophy_type": "Platinum",
+        "trophy_obtained": false,
+        "trophy_guide": ["Earn all other trophies in Horizon Forbidden West to unlock Platinum (DLC not required)."],
+        "trophy_collectible": "",
+        "trophy_tag": [""]
+        
+    },
+    {
+        "id": "hfw-reached-level-20",
+        "trophy_name": "Reached Level 20",
+        "trophy_description": "Reached player level 20.",
+        "trophy_image": "",
+        "trophy_type": "Bronze",
+        "trophy_obtained": false,
+        "trophy_guide": [""],
+        "trophy_collectible": "",
+        "trophy_tag": ["Story"]
+    }
+]
