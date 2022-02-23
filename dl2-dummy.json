@@ -1,0 +1,25 @@
+[
+    {
+        "id": "dl2_platinum_trophy",
+        "trophy_name": "Pilgrim’s Path",
+        "trophy_description": "Unlock every trophy.",
+        "trophy_image": "dl2-platinum-trophy",
+        "trophy_type": "Platinum",
+        "trophy_obtained": false,
+        "trophy_guide": ["Unlock all other trophies to earn platinum"],
+        "trophy_collectible": "",
+        "trophy_tag": [""]
+        
+    },
+    {
+        "id": "dl2-into-the-unknown",
+        "trophy_name": "Into the Unknown",
+        "trophy_description": "Reach Villedor.",
+        "trophy_image": "dl2-into-the-unknown",
+        "trophy_type": "Bronze",
+        "trophy_obtained": false,
+        "trophy_guide": [""],
+        "trophy_collectible": "",
+        "trophy_tag": ["Story"]
+    }
+]
